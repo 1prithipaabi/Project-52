@@ -1,0 +1,24 @@
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+a:link{
+    color:blue
+}
+a:visited{
+    color:red
+}
+.item:hover{
+    transform:scale(1.2);
+}
+
+.item:hover{
+    opacity:0.33;
+}
